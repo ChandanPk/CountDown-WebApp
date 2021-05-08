@@ -1,5 +1,5 @@
 const timeOut = () => {
-    const destinationTime = new Date("may 10 2021 09:30:00").getTime();
+    const destinationTime = new Date("oct 2 2021 00:00:00").getTime();
     let presenTime = new Date().getTime();
     
     let difference = destinationTime - presenTime;
